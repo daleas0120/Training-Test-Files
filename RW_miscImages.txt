@@ -1,0 +1,16 @@
+C:/Users/daleas/Documents/AI_Learning_Images/Misc_RW_Images/, /mnt/data/Ashley_ML/AI_Learning_Images/Misc_RW_Images/
+#image,image,top, right, bottom, left,,,,label
+bird1.png,bird1.png,182,115,376,230,bird
+bird2.png,bird2.png,211,10,248,331,bird
+glider1.png,glider1.png,234,98,142,208,glider
+glider2.png,glider2.png,155,104,326,48,glider
+blimp1.png,blimp1.png,155,93,100,44,blimp
+glider3.png,glider3.png,160,247,230,76,glider
+glider4.png,glider4.png,34,35,134,112,glider
+glider5.png,glider5.png,2,109,582,146,glider
+balloon1.png,balloon1.png,63,42,540,529,balloon
+biplane1.png,biplane1.png,44,25,562,237,plane
+blimp2.png,blimp2.png,109,44,475,234,blimp
+blimp3.png,blimp3.png,77,40,508,410,blimp
+biplane2.png,biplane2.png,52,44,561,269,plane
+glider6.png,glider6.png,83,1,341,294,glider

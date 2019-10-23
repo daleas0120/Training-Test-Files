@@ -1,0 +1,68 @@
+#Gorgon Capture Sample File
+#Biplane, Eagle, Hang glider
+
+#windows platform,                             SL02310 Platform linux,         SLO2319 Platform linux
+C:/Users/daleas/Documents/AI_Learning_Images/, /mnt/data/AI_Learning_Images/, /mnt/data/Ashley_ML/AI_Learning_Images/
+
+## Biplane - Virtual World
+#image,image,top, right, bottom, left,,,,label
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/biPlane_Camera01_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/biPlane_Camera01_zDepth.005.png,491,92,19,10,plane
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera02_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera02_zDepth.005.png,230,351,135,86,plane
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera03beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera03zDepth.005.png,238,194,119,101,plane
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera04_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera04_zDepth.005.png,319,314,114,34,plane
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera05_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera05_zDepth.005.png,285,389,91,73,plane
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera06_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera06_zDepth.005.png,205,318,225,140,plane
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera07_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera07_zDepth.005.png,337,376,223,105,plane
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera08_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera08_zDepth.005.png,176,231,40,22,plane
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera09_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera09_zDepth.005.png,220,130,117,46,plane
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera10_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera10_zDepth.005.png,515,175,68,34,plane
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera11_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera11_zDepth.005.png,387,213,48,32,plane
+#plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera12_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera12_zDepth.005.png,305,292,17,9,plane
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera13_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera13_zDepth.005.png,341,213,39,30,plane
+plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera14_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera14_zDepth.005.png,153,84,73,31,plane
+#plane/biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera15_beauty.005.png,plane/biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera15_zDepth.005.png,72,256,10,4,plane
+
+## Eagle - Virtual World
+#image,image,top, right, bottom, left,,,,label
+eagle/eagleBeauty_512/eagleCamera01_beauty.0005.png,eagle/eagleZdepth_512/eagleCamera01_zDepth.0005.png,88,76,35,38,eagle
+eagle/eagleBeauty_512/eagleCamera01_beauty.0010.png,eagle/eagleZdepth_512/eagleCamera01_zDepth.0010.png,102,99,33,37,eagle
+eagle/eagleBeauty_512/eagleCamera01_beauty.0015.png,eagle/eagleZdepth_512/eagleCamera01_zDepth.0015.png,125,116,35,34,eagle
+eagle/eagleBeauty_512/eagleCamera01_beauty.0020.png,eagle/eagleZdepth_512/eagleCamera01_zDepth.0020.png,155,119,34,35,eagle
+eagle/eagleBeauty_512/eagleCamera01_beauty.0030.png,eagle/eagleZdepth_512/eagleCamera01_zDepth.0030.png,213,167,30,29,eagle
+eagle/eagleBeauty_512/eagleCamera01_beauty.0040.png,eagle/eagleZdepth_512/eagleCamera01_zDepth.0040.png,268,193,29,20,eagle
+eagle/eagleBeauty_512/eagleCamera01_beauty.0050.png,eagle/eagleZdepth_512/eagleCamera01_zDepth.0050.png,302,214,27,18,eagle
+eagle/eagleBeauty_512/eagleCamera02_beauty.0000.png,eagle/eagleZdepth_512/eagleCamera02_zDepth.0000.png,442,242,71,24,eagle
+eagle/eagleBeauty_512/eagleCamera02_beauty.0010.png,eagle/eagleZdepth_512/eagleCamera02_zDepth.0010.png,445,245,62,23,eagle
+eagle/eagleBeauty_512/eagleCamera02_beauty.0020.png,eagle/eagleZdepth_512/eagleCamera02_zDepth.0020.png,427,221,60,40,eagle
+eagle/eagleBeauty_512/eagleCamera02_beauty.0030.png,eagle/eagleZdepth_512/eagleCamera02_zDepth.0030.png,393,229,68,44,eagle
+eagle/eagleBeauty_512/eagleCamera02_beauty.0040.png,eagle/eagleZdepth_512/eagleCamera02_zDepth.0040.png,336,193,81,58,eagle
+eagle/eagleBeauty_512/eagleCamera02_beauty.0050.png,eagle/eagleZdepth_512/eagleCamera02_zDepth.0050.png,275,175,95,79,eagle
+eagle/eagleBeauty_512/eagleCamera03_beauty.0000.png,eagle/eagleZdepth_512/eagleCamera03_zDepth.0000.png,156,104,91,49,eagle
+eagle/eagleBeauty_512/eagleCamera03_beauty.0010.png,eagle/eagleZdepth_512/eagleCamera03_zDepth.0010.png,158,122,81,36,eagle
+eagle/eagleBeauty_512/eagleCamera03_beauty.0020.png,eagle/eagleZdepth_512/eagleCamera03_zDepth.0020.png,172,107,83,49,eagle
+eagle/eagleBeauty_512/eagleCamera03_beauty.0030.png,eagle/eagleZdepth_512/eagleCamera03_zDepth.0030.png,170,151,95,51,eagle
+eagle/eagleBeauty_512/eagleCamera03_beauty.0040.png,eagle/eagleZdepth_512/eagleCamera03_zDepth.0040.png,144,166,191,59,eagle
+eagle/eagleBeauty_512/eagleCamera03_beauty.0050.png,eagle/eagleZdepth_512/eagleCamera03_zDepth.0050.png,148,234,262,72,eagle
+eagle/eagleBeauty_512/eagleCamera04_beauty.0000.png,eagle/eagleZdepth_512/eagleCamera04_zDepth.0000.png,167,432,102,41,eagle
+eagle/eagleBeauty_512/eagleCamera04_beauty.0010.png,eagle/eagleZdepth_512/eagleCamera04_zDepth.0010.png,155,391,96,35,eagle
+eagle/eagleBeauty_512/eagleCamera04_beauty.0020.png,eagle/eagleZdepth_512/eagleCamera04_zDepth.0020.png,126,288,76,36,eagle
+eagle/eagleBeauty_512/eagleCamera04_beauty.0030.png,eagle/eagleZdepth_512/eagleCamera04_zDepth.0030.png,97,206,56,30,eagle
+eagle/eagleBeauty_512/eagleCamera04_beauty.0040.png,eagle/eagleZdepth_512/eagleCamera04_zDepth.0040.png,55,111,77,40,eagle
+eagle/eagleBeauty_512/eagleCamera04_beauty.0050.png,eagle/eagleZdepth_512/eagleCamera04_zDepth.0050.png,47,69,55,25,eagle
+
+## Glider - Virtual World
+#image,image,top, right, bottom, left,,,,label
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/HangGliderCamera02_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/HangGliderCamera02_zDepth.004.png,255,139,59,30,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/HangGliderCamera03_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/HangGliderCamera03_zepth.004.png,233,235,117,70,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/HangGliderCamera04_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/HangGliderCamera04_zepth.004.png,433,20,91,138,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/HangGliderCamera05_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/HangGliderCamera05_zDepth.004.png,71,344,471,180,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/HangGliderCamera06_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/HangGliderCamera06_zDepth.004.png,320,300,241,80,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/HangGliderCamera07_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/HangGliderCamera07_zDepth.004.png,272,366,300,125,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/HangGliderCamera08_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/HangGliderCamera08_zDepth.004.png,84,252,481,118,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/HangGliderCamera09_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/HangGliderCamera09_zDepth.004.png,225,64,104,60,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/HangGliderCamera10_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/HangGliderCamera10_zDepth.004.png,243,94,169,65,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/hangGliderCamera11_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/hangGliderCamera11_zDepth.004.png,144,252,255,112,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/hangGliderCamera12_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/hangGliderCamera12_zDepth.004.png,382,99,71,59,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/hangGliderCamera13_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/hangGliderCamera13_zDepth.004.png,104,305,54,49,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/hangGliderCamera14_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/hangGliderCamera14_zDepth.004.png,344,110,43,41,glider
+glider/hangGlider_Multiple_Cameras@200Z_BEAUTY/hangGliderCamera15_beauty.004.png,glider/hangGlider_Multiple_Cameras@200Z_ZDEPTH/hangGliderCamera15_zDepth.004.png,368,204,204,93,glider

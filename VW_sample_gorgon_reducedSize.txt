@@ -1,0 +1,61 @@
+#Master Train File - reduced_image_size
+#Biplane, Eagle, Hang glider,
+
+## Biplane - Virtual World
+#windows platform, SL02310 Platform, SLO2319 Platform
+C:/Users/daleas/Documents/AI_Learning_Images/, /mnt/data/AI_Learning_Images/, /mnt/data/Ashley_ML/AI_Learning_Images/
+
+#image,image,top, right, bottom, left,label
+plane/plane_320/beauty/biPlane_Camera01_beauty.001.png,plane/plane_320/depth/biPlane_Camera01_zDepth.001.png,{255,46,10,5,plane}
+plane/plane_320/beauty/BiPlaneCamera02_beauty.001.png,plane/plane_320/depth/BiPlaneCamera02_zDepth.001.png,{22,182,81,53,plane}
+plane/plane_320/beauty/BiPlaneCamera03beauty.001.png,plane/plane_320/depth/BiPlaneCamera03zDepth.001.png,{50,101,61,47,plane}
+plane/plane_320/beauty/BiPlaneCamera04_beauty.001.png,plane/plane_320/depth/BiPlaneCamera04_zDepth.001.png,{158,157,48,15,plane}
+plane/plane_320/beauty/BiPlaneCamera05_beauty.001.png,plane/plane_320/depth/BiPlaneCamera05_zDepth.001.png,{142,229,48,40,plane}
+plane/plane_320/beauty/BiPlaneCamera06_beauty.001.png,plane/plane_320/depth/BiPlaneCamera06_zDepth.001.png,{168,192,141,103,plane}
+plane/plane_320/beauty/BiPlaneCamera07_beauty.001.png,plane/plane_320/depth/BiPlaneCamera07_zDepth.001.png,{197,223,99,41,plane}
+plane/plane_320/beauty/BiPlaneCamera08_beauty.001.png,plane/plane_320/depth/BiPlaneCamera08_zDepth.001.png,{119,116,20,11,plane}
+plane/plane_320/beauty/BiPlaneCamera09_beauty.001.png,plane/plane_320/depth/BiPlaneCamera09_zDepth.001.png,{11,66,66,24,plane}
+plane/plane_320/beauty/BiPlaneCamera10_beauty.001.png,plane/plane_320/depth/BiPlaneCamera10_zDepth.001.png,{245,49,46,26,plane}
+plane/plane_320/beauty/BiPlaneCamera11_beauty.001.png,plane/plane_320/depth/BiPlaneCamera11_zDepth.001.png,{224,141,22,13,plane}
+plane/plane_320/beauty/BiPlaneCamera12_beauty.001.png,plane/plane_320/depth/BiPlaneCamera12_zDepth.001.png,{115,110,12,7,plane}
+plane/plane_320/beauty/BiPlaneCamera13_beauty.001.png,plane/plane_320/depth/BiPlaneCamera13_zDepth.001.png,{175,6,18,15,plane}
+plane/plane_320/beauty/BiPlaneCamera14_beauty.001.png,plane/plane_320/depth/BiPlaneCamera14_zDepth.001.png,{95,6,180,74,plane}
+#plane/plane_320/beauty/BiPlaneCamera15_beauty.001.png,plane/plane_320/depth/BiPlaneCamera15_zDepth.001.png,{10,128,6,2,plane}
+eagle/eagleBeauty_256/eagleCamera01_beauty.0001.png,eagle/eagleZdepth_256/eagleCamera01_zDepth.0001.png,{42,39,17,21,eagle}
+eagle/eagleBeauty_256/eagleCamera01_beauty.0011.png,eagle/eagleZdepth_256/eagleCamera01_zDepth.0011.png,{52,52,17,21,eagle}
+eagle/eagleBeauty_256/eagleCamera01_beauty.0021.png,eagle/eagleZdepth_256/eagleCamera01_zDepth.0021.png,{80,60,18,21,eagle}
+eagle/eagleBeauty_256/eagleCamera01_beauty.0031.png,eagle/eagleZdepth_256/eagleCamera01_zDepth.0031.png,{110,84,14,15,eagle}
+eagle/eagleBeauty_256/eagleCamera01_beauty.0041.png,eagle/eagleZdepth_256/eagleCamera01_zDepth.0041.png,{134,100,17,8,eagle}
+eagle/eagleBeauty_256/eagleCamera01_beauty.0051.png,eagle/eagleZdepth_256/eagleCamera01_zDepth.0051.png,{152,107,15,10,eagle}
+eagle/eagleBeauty_256/eagleCamera02_beauty.0001.png,eagle/eagleZdepth_256/eagleCamera02_zDepth.0001.png,{221,122,35,13,eagle}
+eagle/eagleBeauty_256/eagleCamera02_beauty.0011.png,eagle/eagleZdepth_256/eagleCamera02_zDepth.0011.png,{221,123,32,15,eagle}
+eagle/eagleBeauty_256/eagleCamera02_beauty.0021.png,eagle/eagleZdepth_256/eagleCamera02_zDepth.0021.png,{211,110,32,21,eagle}
+eagle/eagleBeauty_256/eagleCamera02_beauty.0031.png,eagle/eagleZdepth_256/eagleCamera02_zDepth.0031.png,{194,113,34,21,eagle}
+eagle/eagleBeauty_256/eagleCamera02_beauty.0041.png,eagle/eagleZdepth_256/eagleCamera02_zDepth.0041.png,{165,98,42,31,eagle}
+eagle/eagleBeauty_256/eagleCamera02_beauty.0051.png,eagle/eagleZdepth_256/eagleCamera02_zDepth.0051.png,{140,86,41,37,eagle}
+eagle/eagleBeauty_256/eagleCamera03_beauty.0001.png,eagle/eagleZdepth_256/eagleCamera03_zDepth.0001.png,{75,51,50,25,eagle}
+eagle/eagleBeauty_256/eagleCamera03_beauty.0011.png,eagle/eagleZdepth_256/eagleCamera03_zDepth.0011.png,{81,61,39,24,eagle}
+eagle/eagleBeauty_256/eagleCamera03_beauty.0021.png,eagle/eagleZdepth_256/eagleCamera03_zDepth.0021.png,{85,52,44,28,eagle}
+eagle/eagleBeauty_256/eagleCamera03_beauty.0031.png,eagle/eagleZdepth_256/eagleCamera03_zDepth.0031.png,{84,78,52,23,eagle}
+eagle/eagleBeauty_256/eagleCamera03_beauty.0041.png,eagle/eagleZdepth_256/eagleCamera03_zDepth.0041.png,{69,98,106,18,eagle}
+eagle/eagleBeauty_256/eagleCamera03_beauty.0051.png,eagle/eagleZdepth_256/eagleCamera03_zDepth.0051.png,{73,110,131,52,eagle}
+eagle/eagleBeauty_256/eagleCamera04_beauty.0001.png,eagle/eagleZdepth_256/eagleCamera04_zDepth.0001.png,{78,217,59,19,eagle}
+eagle/eagleBeauty_256/eagleCamera04_beauty.0011.png,eagle/eagleZdepth_256/eagleCamera04_zDepth.0011.png,{77,191,45,23,eagle}
+eagle/eagleBeauty_256/eagleCamera04_beauty.0021.png,eagle/eagleZdepth_256/eagleCamera04_zDepth.0021.png,{60,137,42,22,eagle}
+eagle/eagleBeauty_256/eagleCamera04_beauty.0031.png,eagle/eagleZdepth_256/eagleCamera04_zDepth.0031.png,{45,96,31,17,eagle}
+eagle/eagleBeauty_256/eagleCamera04_beauty.0041.png,eagle/eagleZdepth_256/eagleCamera04_zDepth.0041.png,{27,58,38,13,eagle}
+eagle/eagleBeauty_256/eagleCamera04_beauty.0051.png,eagle/eagleZdepth_256/eagleCamera04_zDepth.0051.png,{23,31,28,15,eagle}
+glider/gliderBeauty_320/HangGliderCamera02_beauty.002.png,glider/gliderDepth_320/HangGliderCamera02_zDepth.002.png,{128,68,29,17,glider}
+glider/gliderBeauty_320/HangGliderCamera03_beauty.002.png,glider/gliderDepth_320/HangGliderCamera03_zepth.002.png,{113,117,63,37,glider}
+glider/gliderBeauty_320/HangGliderCamera04_beauty.002.png,glider/gliderDepth_320/HangGliderCamera04_zepth.002.png,{218,7,43,75,glider}
+glider/gliderBeauty_320/HangGliderCamera05_beauty.002.png,glider/gliderDepth_320/HangGliderCamera05_zDepth.002.png,{36,172,236,90,glider}
+glider/gliderBeauty_320/HangGliderCamera06_beauty.002.png,glider/gliderDepth_320/HangGliderCamera06_zDepth.002.png,{197,148,121,40,glider}
+glider/gliderBeauty_320/HangGliderCamera07_beauty.002.png,glider/gliderDepth_320/HangGliderCamera07_zDepth.002.png,{150,198,137,58,glider}
+glider/gliderBeauty_320/HangGliderCamera08_beauty.002.png,glider/gliderDepth_320/HangGliderCamera08_zDepth.002.png,{13,121,303,67,glider}
+glider/gliderBeauty_320/HangGliderCamera09_beauty.002.png,glider/gliderDepth_320/HangGliderCamera09_zDepth.002.png,{36,25,69,34,glider}
+glider/gliderBeauty_320/HangGliderCamera10_beauty.002.png,glider/gliderDepth_320/HangGliderCamera10_zDepth.002.png,{128,30,75,30,glider}
+glider/gliderBeauty_320/hangGliderCamera11_beauty.002.png,glider/gliderDepth_320/hangGliderCamera11_zDepth.002.png,{16,117,134,63,glider}
+glider/gliderBeauty_320/hangGliderCamera12_beauty.002.png,glider/gliderDepth_320/hangGliderCamera12_zDepth.002.png,{247,38,47,31,glider}
+glider/gliderBeauty_320/hangGliderCamera13_beauty.002.png,glider/gliderDepth_320/hangGliderCamera13_zDepth.002.png,{8,139,29,27,glider}
+glider/gliderBeauty_320/hangGliderCamera14_beauty.002.png,glider/gliderDepth_320/hangGliderCamera14_zDepth.002.png,{144,56,23,18,glider}
+glider/gliderBeauty_320/hangGliderCamera15_beauty.002.png,glider/gliderDepth_320/hangGliderCamera15_zDepth.002.png,{221,99,95,41,glider}

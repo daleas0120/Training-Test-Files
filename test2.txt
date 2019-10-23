@@ -1,0 +1,6 @@
+#image,image,top, right, bottom, left,,,,label
+#windows platform,                                      SL02310 Platform linux,                               SLO2319 Platform linux
+C:/Users/daleas/Documents/AI_Learning_Images/planeRW/, /media/daleas/DATA/Ashley_ML/AI_Learning_Images/plane/, /mnt/data/Ashley_ML/AI_Learning_Images/plane/
+
+biplane_00.png,biplane_00.png,32,46,418,226,plane
+biplane_08.png,biplane_00.png,8,36,238,99,plane

@@ -1,0 +1,6 @@
+#windows platform,                                     SL02310 Platform,                     SLO2319 Platform
+C:/Users/daleas/Documents/AI_Learning_Images/plane/, /media/daleas/DATA/Ashley_ML/AI_Learning_Images/plane/, /mnt/data/Ashley_ML/AI_Learning_Images/plane/
+
+#image,image,top, right, bottom,left,,,,label
+biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera07_beauty.009.png,biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera07_zDepth.009.png,250,273,268,148,plane
+biPlane_Multiple_Cameras@200Z_BEAUTY/BiPlaneCamera05_beauty.004.png,biPlane_Multiple_Cameras@200Z_ZDEPTH/BiPlaneCamera05_zDepth.004.png,284,403,92,77,plane

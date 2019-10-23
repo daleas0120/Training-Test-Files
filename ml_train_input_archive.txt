@@ -1,0 +1,9 @@
+# Full data listing for the real world dataset
+# Data Directory (Windows data location, Linux data location, HPC Data location):
+C:/Users/daleas/Documents/AI_Learning_Images/AI_Input_Files/Bi-Plane/01_Front/, /home/, /home/
+# Data: 
+#Auditorium1/left/exp_10/image_137_10.00.png, Auditorium1/left/exp_10/image_134_10.00.png, Auditorium1/lidar/lidar_rng_left_00000_16bit_16bit.png
+#------------------------------------------------------
+# image, image, left, top, right, bottom, label
+BiPlane_rgbz_1.png, BiPlane_rgbz_1.png, 465, 47, 515, 97, plane
+
