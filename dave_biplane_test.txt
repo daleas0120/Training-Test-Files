@@ -1,0 +1,6 @@
+C:/Users/daleas/Desktop,/mnt/data/AI_Learning_Images/,/mnt/data/Ashley_ML/AI_Learning_Images/
+
+biplane_fine_full_combined_img.png,biplane_fine_full_combined_img.png,{1,1,1,1,plane}
+biplane_fine_half_combined_img.png,biplane_fine_half_combined_img.png,{1,1,1,1,plane}
+biplane_fine_third_combined_img.png,biplane_fine_third_combined_img.png,{1,1,1,1,plane}
+test_img.png,test_img.png,{1,1,1,1,plane}
