@@ -4,3 +4,4 @@ biplane_fine_full_combined_img.png,biplane_fine_full_combined_img.png,{1,1,1,1,p
 biplane_fine_half_combined_img.png,biplane_fine_half_combined_img.png,{1,1,1,1,plane}
 biplane_fine_third_combined_img.png,biplane_fine_third_combined_img.png,{1,1,1,1,plane}
 test_img.png,test_img.png,{1,1,1,1,plane}
+pencil_biplane.png,{1,1,1,1,plane}
